@@ -24,3 +24,9 @@ linebot示意圖以及QR code：
 所使用的google表單：
 
 ![image](picture/googlesheet.jpg)
+
+
+
+
+\
+下一篇 : [02_詳細教學](02_詳細教學.pdf)
