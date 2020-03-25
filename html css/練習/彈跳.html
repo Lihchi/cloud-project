@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset = "utf-8">
+      <title>Animation</title>
+      <style type = "text/css">
+        div#box
+		   {
+			  width : 50px;
+			  height : 50px;
+			  border-radius: 25px;
+			  position: relative;
+			  background : -webkit-radial-gradient(center,navy,white);
+			  -webkit-animation: movingimage linear 5s 1s 2 alternate;
+			}
+         @-webkit-keyframes movingimage
+         {
+            0%   {opacity: 1; left: 0px; top: 0px;}
+            25%  {opacity: 1; left: 50px; top: 50px;}
+            50%  {opacity: 1; left:100px; top: 0px;}
+            75%  {opacity: 1; left: 150px; top: 50px;}
+            100% {opacity: 1; left: 200px; top: 0px;}
+         }
+		 
+		 
+
+      </style>
+   </head>
+   <body>
+        <div id="box"></div>
+</body>
+
+
+</html>
