@@ -10,7 +10,6 @@
 # Results (Screenshots)
 
 
-<https://fathomless-garden-29168.herokuapp.com/>
 [製作的網址 請按我看網頁](https://fathomless-garden-29168.herokuapp.com/)
 
 示意圖:
