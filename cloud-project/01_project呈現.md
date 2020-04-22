@@ -4,7 +4,7 @@
 <ol>
 <li>前端使用 Html</li>
 <li>後端的資料庫連接 excel 試算表</li>
-<li>Linebot 使用 Google App Script(JavaScript 雲腳本語言)</li>
+<li>Linebot 使用 Google App Script (JavaScript 雲腳本語言)</li>
 </ol>
 
 # Results (Screenshots)
